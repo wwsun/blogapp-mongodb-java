@@ -41,13 +41,6 @@
 
     </dependencies>
 
-    <repositories>
-        <repository>
-            <id>Spark repository</id>
-            <url>http://www.sparkjava.com/nexus/content/repositories/spark/</url>
-        </repository>
-    </repositories>
-
     <!-- Configure maven-compiler-plugin version. -->
     <build>
       <plugins>
